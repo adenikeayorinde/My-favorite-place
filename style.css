@@ -1,0 +1,33 @@
+body{
+    background:rgb(7, 174, 246);
+    color:rgb(247, 251, 251)
+}
+ h1{
+    background:0;
+    color:white;
+    text-align: center;
+    font-style:var();
+    font-size:70px;
+    padding-top: 20px;
+    margin-left: cursive;
+ }
+ p{
+    font-size: 23px;
+    font-style: oblique;
+    color:white;
+ }
+ h2{
+    text-align: calc();
+    line-height: 15%;
+    font-family:cursive;
+    font-size: 35px;
+    font-weight:400;
+ }
+ ul{
+    font-size: 20px;
+    font-weight:300%;
+ }
+ ol{ 
+    font-size: 20px;
+    font-weight: 300%;
+}
