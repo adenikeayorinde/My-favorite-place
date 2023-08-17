@@ -2,14 +2,15 @@ body{
     background:rgb(7, 174, 246);
     color:rgb(247, 251, 251)
 }
- h1{
+ .red{
     background:0;
     color:white;
     text-align: center;
     font-style:var();
-    font-size:70px;
+    font-size:30px;
     padding-top: 20px;
     margin-left: cursive;
+    background-color:red;
  }
  p{
     font-size: 23px;
@@ -30,4 +31,10 @@ body{
  ol{ 
     font-size: 20px;
     font-weight: 300%;
+}
+#blue{
+   color: blue;
+}
+.fav{
+   color: black;
 }
