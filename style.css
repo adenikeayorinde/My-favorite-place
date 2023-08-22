@@ -2,17 +2,15 @@ body{
     background:rgb(7, 174, 246);
     color:rgb(247, 251, 251)
 }
- .red{
+ h1{
     background:0;
     color:white;
     text-align: center;
     font-style:var();
-    font-size:30px;
+    font-size:70px;
     padding-top: 20px;
     margin-left: cursive;
-    background-color:red;
  }
- p{
     font-size: 23px;
     font-style: oblique;
     color:white;
@@ -21,7 +19,7 @@ body{
     text-align: calc();
     line-height: 15%;
     font-family:cursive;
-    font-size: 35px;
+    font-size: 50px;
     font-weight:400;
  }
  ul{
